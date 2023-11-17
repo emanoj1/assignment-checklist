@@ -1,0 +1,12 @@
+label {
+  font-size: 1.5em;
+}
+
+input[type=checkbox]:checked + label {
+  color: green;
+  text-decoration: line-through;
+}
+
+#due-date {
+  color: red;
+}/*# sourceMappingURL=t1a2.css.map */
